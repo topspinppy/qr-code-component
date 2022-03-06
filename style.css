@@ -15,9 +15,10 @@ html {
 
 body {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   min-height: 97vh;
+  flex-direction: column;
 }
 
 .container {
@@ -73,7 +74,7 @@ article {
   color: var(--light-gray);
 }
 
-.attribution {
+/* .attribution {
   position: absolute;
   bottom: 10px;
-}
+} */
