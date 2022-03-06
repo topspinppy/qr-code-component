@@ -72,3 +72,8 @@ article {
   text-align: center;
   color: var(--light-gray);
 }
+
+.attribution {
+  position: absolute;
+  bottom: 10px;
+}
